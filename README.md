@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">📱 Exploring Web Development and App Development.<br>🔹 Worked at SIMSIM company as a SIMSIM influencer(internship).<br>🎸 Acoustic Guitarist<br>✏️ Graphic Designing.<br>🔹 Have done freelancing on instagram. @designer.dev22 <br>👨‍🎓 Currently pursuing B.Tech in CSE from I.T.S Engineering College, Greater Noida</p>
+<p align="left">📱 Exploring Web Development and App Development.<br>🎸 Acoustic Guitarist<br>✏️ Graphic Designing.<br>🔹 Have done freelancing on instagram. @designer.dev22 <br>👨‍🎓 Currently pursuing B.Tech in CSE from I.T.S Engineering College, Greater Noida</p>
 
 ###
 
