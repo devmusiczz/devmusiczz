@@ -1,34 +1,129 @@
-<br clear="both">
+<div> 
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Dancing+Script&size=45&vCenter=true&width=500&lines=Hey+Visitor!!+%F0%9F%91%8B;I+am+Dev+;I+am+a+Full+Stack+Developer&color=ff960d)](https://git.io/typing-svg)
 
-<img align="right" height="200" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966"  />
+<img src="coding boy.gif" width="390px" alt=gif align="right"> 
+</div>
+  <br />
+  <br/>
+  <br/>
 
-###
+  - 🔭 As my name suggests, I'm a Dev.
+  - 🌱 I’m currently learning MERN Stack.
+  - 💬 I sing, play guitar and dance sometimes to bring my energy back. 
+  - 📫 Reach me through [Mail](mailto:devr69080@gmail.com) 
 
-<h1 align="center">Hey there👋, I'm DevMusicz</h1>
+<br />
+<br />
+<br />
+<br />
 
-###
+##
+![](https://komarev.com/ghpvc/?username=devmusiczz&color=blue)
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=devmusiczz&theme=merko&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="DevMusicz's  activity graph">
+    
+
+
+## My Tech Stack 👨‍💻
 
 <div align="center">
-  <p>
-<a href="https://www.linkedin.com/in/dev-rathore-77a588212/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
-<!-- <a href="https://twitter.com/Krish_Verma7"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a> -->
-<a href="https://www.instagram.com/dev.musicz/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
-<a href="https://www.hackerrank.com/devmusicz?hr_r=1"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
-</p>
-  </a>
+  <table>
+    <tr>
+      <td align="center" width="12.5%">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+        <br>React
+      </td>
+      <td align="center" width="12.5%">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+        <br>Python
+      </td>
+      <td align="center" width="12.5%">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+        <br>JavaScript
+      </td>
+      <td align="center" width="12.5%">
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
+        <br>C++
+      </td>
+      <td align="center" width="12.5%">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
+        <br>MySQL
+      </td>
+      <td align="center" width="12.5%">
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
+        <br>TypeScript
+      </td>
+      <td align="center" width="12.5%">
+        <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="Sass" width="65" height="65" />
+        <br>Sass
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="12.5%">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+        <br>GitHub
+      </td>
+      <td align="center" width="12.5%">
+        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" width="48" height="48" />
+        <br>Git
+      </td>
+      <td align="center" width="12.5%">
+        <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="48" height="48" />
+        <br>HTML5
+      </td>
+      <td align="center" width="12.5%">
+        <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="48" height="48" />
+        <br>CSS
+      </td>
+      <td align="center" width="12.5%">
+        <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="48" height="48" />
+        <br>Bootstrap
+      </td>
+      <td align="center" width="12.5%">
+        <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="48" height="48" />
+        <br>Tailwind
+      </td>
+      <td align="center" width="12.5%">
+        <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="48" height="48" />
+        <br>Node.js
+      </td>
+      <!-- Add more items if needed -->
+  </table>
 </div>
 
-###
+# My GitHub Stats 📊
 
-<h3 align="left">👩‍💻  About Me</h3>
+<p align='center'>
+<img src='https://github-widgetbox.vercel.app/api/profile?username=devmusiczz&theme=darkmode&data=followers,repositories,stars,commits' />
+</p>
 
-###
+<p align="center">
 
-<p align="left">📱 Exploring Web Development and App Development.<br>🎸 Acoustic Guitarist<br>✏️ Graphic Designing.<br>🔹 Have done freelancing on instagram. @designer.dev22 <br>👨‍🎓 Currently pursuing B.Tech in CSE from I.T.S Engineering College, Greater Noida</p>
 
-###
+<a href="https://github.com/devmusiczz?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=devmusiczz&theme=merko&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@devmusiczz's github-readme-stats"/></a>
+<a href="https://github.com/devmusiczz?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=devmusiczz&theme=merko&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@devmusiczz's github-readme-streak-stats"/></a>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
-###
+</p>
 
+<!-- activity graph heroku-app start -->
+<p align="center">
+    <a href="[https://wakatime.com/@devmusiczz](https://github-readme-activity-graph.vercel.app/graph?username=devmusiczz&theme=merko&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo)">
+        </a>
+</p>
+
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmusiczz&langs_count=10&theme=merko&layout=compact" width="38%" height="216px" alt="devmusiczz :: Top Langs" />
+<a href="https://github.com/devmusiczz?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=devmusiczz&theme=gitdimmed&no-frame=true&column=3&row=2"  width="38%" alt="devmusiczz's trophies"/></a>
+</p>
+
+## Contact me 📮
+<div>
+  <a href = "mailto:devr69080@gmail.com"><img src="https://img.shields.io/badge/Email-Click_here-blue?style=flat&logo=microsoft-outlook" target="_blank"></a>
+
+</div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
